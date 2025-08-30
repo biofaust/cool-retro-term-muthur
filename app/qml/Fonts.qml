@@ -221,6 +221,17 @@ QtObject {
             isSystemFont: false
             family: ""
         }
+        ListElement {
+            name: "MU/TH/UR"
+            text: "MU/TH/UR"
+            source: "fonts/City_Light_Light_Regular.ttf"
+            lineSpacing: 0.1
+            pixelSize: 35
+            fontWidth: 1.0
+            lowResolutionFont: false
+            isSystemFont: false
+            family: ""
+        }
     }
 
     Component.onCompleted: addSystemFonts()
