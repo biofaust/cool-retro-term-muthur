@@ -224,7 +224,7 @@ QtObject {
         ListElement {
             name: "MU/TH/UR"
             text: "MU/TH/UR"
-            source: "fonts/City_Light_Light_Regular.ttf"
+            source: "fonts/MUTHUR/City_Light_Light_Regular.ttf"
             lineSpacing: 0.1
             pixelSize: 35
             fontWidth: 1.0
