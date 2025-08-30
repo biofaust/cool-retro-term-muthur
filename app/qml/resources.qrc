@@ -40,6 +40,7 @@
         <file>fonts/1977-commodore-pet/PetMe.ttf</file>
         <file>BurnInEffect.qml</file>
         <file>fonts/modern-terminus/TerminusTTF-4.46.0.ttf</file>
+        <file>fonts/MUTHUR/City_Light_Light_Regular.ttf</file>
         <file>TerminalFrame.qml</file>
         <file>menus/WindowMenu.qml</file>
         <file>menus/FullContextMenu.qml</file>
